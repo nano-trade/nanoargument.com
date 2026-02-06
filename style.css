@@ -109,6 +109,15 @@ section p strong {
   font-size: 1.1rem;
 }
 
+.argument h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-top: 48px;
+  margin-bottom: 16px;
+  letter-spacing: -0.01em;
+}
+
 .argument .call {
   color: var(--text);
   font-size: 1.1rem;
