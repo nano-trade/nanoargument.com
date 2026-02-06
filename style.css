@@ -129,6 +129,20 @@ section p strong {
   margin-bottom: 0;
 }
 
+.argument .conclusion .conclusion-result {
+  margin-top: 16px;
+}
+
+/* Table row headers */
+
+.comparison th[scope="row"] {
+  color: var(--text);
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: normal;
+  font-size: 0.95rem;
+}
+
 /* Properties */
 
 .properties {
